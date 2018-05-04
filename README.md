@@ -99,3 +99,5 @@ UI Kit is not recommended for basic uses.
 It packs almost any component u can think of.
 If JavaScript is your first approach u can go
 ```
+
+### these are my views. it need not to be 100% correct
