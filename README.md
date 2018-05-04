@@ -1,7 +1,7 @@
 # Comparison of some popular frontend frameworks
 
-- [Bootstrap4](https://getbootstrap.com)
-- [MDL by Google](https://getmdl.io)
+- [Bootstrap4](#bootstrap)
+- [MDL by Google](#mdl-by-google)
 - [Materialize CSS](https://materializecss.com)
 - [Pure CSS](https://purecss.io)
 - [jQuery Mobile](http://demos.jquerymobile.com/1.4.5)
@@ -12,7 +12,7 @@ These frameworks are also popular but i haven't used them so i can't speak
 - [Semantic UI](https://semantic-ui.com)
 - [Foundation](https://foundation.zurb.com/)
 
-## Bootstrap4
+## [Bootstrap4](https://getbootstrap.com)
 This is the most popular framework. So u can find many articles and stackoverflow help. Also it's documentation is awesome.  
 But its JavaScript components require dependencies 1. `jQuery` 2. `Popper` which may lead to slow load and less performance grade.  
 `bootstrap.bundle.js` include popper.  
@@ -29,4 +29,18 @@ Overall it is good choice.
 ```
 Bootstrap is good for CSS components.
 JavaScript components are not too good and comes with dependencies
+```
+
+## [MDL by Google](https://getmdl.io)
+By the name it look like it is the best framework. But the truth is it is not it is a below average framework.  
+The First thing is its class structure the name  of classes are very long and often leads to typo.  
+The second is the performance grade. Its Lighthouse audit scores comes to very low as compared to other framework.  
+I am not sure about the browser compatibility but some of its components uses components which is only supported by Chrome. Also some of the component require extra plugins which will then take you to load slow.  
+There are some basic components missing like Select. Extra installation is needed for those component.  
+Many times i have seen that the components are not enough responsive on small screen.   
+It have good colour scheme so it don't offers extra classes for theme which is good because major sites goes with 2 colour theme.  
+
+```
+MDL is not probably the choice u should make.
+Go for other framework based on Material design instead
 ```
