@@ -3,10 +3,9 @@
 - [Bootstrap4](#bootstrap4)
 - [MDL by Google](#mdl-by-google)
 - [Materialize CSS](#materialize-css)
-- [Pure CSS](https://purecss.io)
-- [jQuery Mobile](http://demos.jquerymobile.com/1.4.5)
-- [UI Kit](https://getuikit.com)
-- [Material Design for Bootstrap 4](https://mdbootstrap.com)
+- [Pure CSS](#pure-css)
+- [jQuery Mobile](#jquery-mobile)
+- [UI Kit](#ui-kit)
 
 These frameworks are also popular but i haven't used them so i can't speak
 - [Semantic UI](https://semantic-ui.com)
@@ -59,4 +58,44 @@ Some problems are with text input.
 ```
 Materialize is there for u to use out of box.
 Best in my Comparison but have large files.
+```
+
+## [Pure CSS](https://purecss.io)
+It is good as it gives most used component in small files.  
+It provides different files for different components and a master file.  
+Best part is it's small package.  
+Missing part is the JavaScript components. u need to write custom JavaScript if u want basic uses also.  
+It grid system is little hard to understand. but it's ok.
+
+```
+Pure CSS is awesome just go for it.
+But it don't have JavaScript components
+```
+
+## [jQuery Mobile](http://demos.jquerymobile.com/1.4.5)
+It is part of jQuery team.  
+Styles are awesome but u have to include JavaScript for css also.  
+It is good but i haven't seen any version after 1.4.5. for more than a year i guess.
+It Ajax Navigation & Transitions are awesome.  
+Also its is not compatible with latest jQuery which is bad.  
+More or less u have to write custom css.  
+
+```
+jQuery Mobile is good but currently it seems that it is not in development.
+It is not compatible with latest jQuery.
+Ajax Navigation & Transitions are the feature for u can use it.
+```
+
+## [UI Kit](https://getuikit.com)
+it is majorly based on JavaScript which is good in some aspect and bad in some.
+It is the framework which contains a large number of component and with great customisation.  
+But it is hard to to overwrite its style and often i leave it for that reason.  
+Also it is in beta stage. so we can expect improvements in future.  
+Its browser support is awesome.  
+Its icons are awesome.
+
+```
+UI Kit is not recommended for basic uses.
+It packs almost any component u can think of.
+If JavaScript is your first approach u can go
 ```
