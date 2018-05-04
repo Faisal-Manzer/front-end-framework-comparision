@@ -1,8 +1,8 @@
 # Comparison of some popular frontend frameworks
 
-- [Bootstrap4](#bootstrap)
+- [Bootstrap4](#bootstrap4)
 - [MDL by Google](#mdl-by-google)
-- [Materialize CSS](https://materializecss.com)
+- [Materialize CSS](#materialize-css)
 - [Pure CSS](https://purecss.io)
 - [jQuery Mobile](http://demos.jquerymobile.com/1.4.5)
 - [UI Kit](https://getuikit.com)
@@ -43,4 +43,20 @@ It have good colour scheme so it don't offers extra classes for theme which is g
 ```
 MDL is not probably the choice u should make.
 Go for other framework based on Material design instead
+```
+
+## [Materialize CSS](https://materializecss.com)
+This is the most interesting framework i have found.  
+Best thing that it don't have any dependencies. Also it have bunch of component u may use.  
+It have the best grid system i have used. Also it's classes is easy.  
+It have some bugs. Also its CSS is very large and JavaScript too, but it have a good performance grade.  
+Best thing is its mobile components they are build well.  
+Some easy classes are missing.  
+It's is full pack of the thing which u can use without any custom CSS, which is missing in many framework u need to write some custom css for them but u can use materialize as it is.  
+its JavaScript components are awesome and the animations too.  
+Some problems are with text input.  
+
+```
+Materialize is there for u to use out of box.
+Best in my Comparison but have large files.
 ```
