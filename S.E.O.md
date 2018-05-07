@@ -4,9 +4,7 @@ S.E.O. not so easy as look. After all you earn money from here.
 
 The key steps:
 - [URL design](#url-design)
-- Title design
-- Meta description
-- SEO with JavaScript
+- [HTML improvements](#html-improvements)
 - Best practices
 - Meta follow
 - robots.txt
@@ -55,7 +53,17 @@ use a single-case structure.
 when u load data from Ajax, append `#` to url  
 like `home` then `home#2` then `home#3`.
 
-## Title design
+## HTML improvements
+u improve SEO from on page SEO which is generally done by HTML tags.  
+
+#### Title design
 title should be descriptive and should contain information about page and site.  
 `Best WEB Guide - LearnVidFM`.  
-Also it is good that the title of tag is in `<h1>Best WEB Guide</h1>`,  
+Also it is good that the title of tag is in the document `<h1>Best WEB Guide</h1>`,  
+Title should be most user-friendly and it is also important for SEO.
+
+#### Meta description
+`<meta name="description" content="A page's description,
+  usually one or two sentences."/>`.  
+This is the thing which will appear in Google Search.
+a good description should be 250-270 character. and be descriptive.
