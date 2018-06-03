@@ -49,3 +49,8 @@ Text editor works at one file at a time they will also suggest you code but are 
     as git is a command line tool. Github Desktop provides a GUI for git. use when you are beginners but try to learn git command line as soon as possible. 
     
 - `Image Editor` use the one you like. Simple image editor like [photoscape](https://photoscape.en.softonic.com/download) will do your task.
+
+- `Chrome Extentions` yes they will help you lot.
+	- [TabMan](https://chrome.google.com/webstore/detail/tabman-tabs-manager/hgmnkflcjcohihpdcniifjbafcdelhlm) is helpfull when you will search lots and lots of stuffs all in a new tab and now you are left with just favicon of page. TabMan comes in resque. I use it a lot.
+	- [Chrome Web Server](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb) a simple web server by Chrome.
+	- [Grammerly](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen) is my love. it corrects all the spelling and gramitical mistakes in an article
